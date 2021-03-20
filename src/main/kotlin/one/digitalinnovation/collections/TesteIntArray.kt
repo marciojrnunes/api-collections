@@ -21,6 +21,7 @@ fun main() {
         println(it)
     }
 
+
     println("utilizando .indices")
     for (index in values.indices) {
         println(values[index])
